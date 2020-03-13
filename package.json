@@ -1,0 +1,27 @@
+{
+  "name": "nodetstemplate",
+  "version": "1.0.0",
+  "description": "Node + TS template with linting and prettier formatting",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .ts",
+    "prettier-format": "prettier --config .prettierrc \"src/**/*.ts\" --write",
+    "build": "tsc",
+    "start-dev": "npm run build && node build/index.js",
+    "start": "node build/index.js"
+  },
+  "author": "Matt Saunders",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "eslint": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-prettier": "latest",
+    "prettier": "latest",
+    "typescript": "latest"
+  }
+}
