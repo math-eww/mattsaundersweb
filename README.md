@@ -1,6 +1,8 @@
-# node-ts-template
-Node + TS template with linting and prettier formatting
+# matt-saunders-web
+Node + TS express website for Matt Saunders
 
-Just a basic project starter template.  Pull or fork it to quickly get started with new node + ts projects without having to set up linting/prettier/package instructions.
+Express + EJS + Firebase backend
+
+Simple website hosting a profile for Matt Saunders, demonstrating use of node.js and typescript to create a server side website.
 
 MIT license. See LICENSE file for more license info
