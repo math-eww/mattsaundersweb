@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ttclines.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="264.57301"
+     inkscape:cy="429.04817"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3)">
+    <g
+       id="g1498"
+       transform="matrix(1.172619,0,0,1.172619,-25.89285,-25.374993)">
+      <rect
+         y="22"
+         x="25"
+         height="250"
+         width="250"
+         id="rect815"
+         style="opacity:1;fill:#ecec84;fill-opacity:1;stroke:#182080;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="22"
+         x="24.999996"
+         height="30"
+         width="250"
+         id="rect833"
+         style="opacity:1;fill:#182080;fill-opacity:1;stroke:none;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="text824"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="TTC">
+        <path
+           id="path838"
+           style="font-size:141.1111145px;fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 104.5252,85.053952 v -15.24 H 29.171868 v 15.24 H 58.805202 V 163.37062 H 74.891869 V 85.053952 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path840"
+           style="font-size:141.1111145px;fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 181.69535,85.053952 v -15.24 h -75.35334 v 15.24 h 29.63333 v 78.316668 h 16.08667 V 85.053952 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path842"
+           style="font-size:141.1111145px;fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="M 271.42438,150.81173 260.2766,139.66395 c -5.92667,6.20889 -14.67556,10.30111 -23.98889,10.30111 -17.92111,0 -32.73778,-15.24 -32.73778,-33.44333 0,-18.626666 14.81667,-33.866667 32.73778,-33.866667 9.31333,0 17.92111,4.092223 23.84778,10.301112 l 11.14778,-11.147778 c -9.03111,-8.890001 -21.02556,-14.393334 -34.85445,-14.393334 -27.09333,0 -49.10667,21.872223 -49.10667,48.965557 0,26.95222 22.01334,48.82445 49.10667,48.82445 13.82889,0 25.96445,-5.50334 34.99556,-14.39334 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="text836"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="lines">
+        <path
+           id="path845"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway';fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 67.10103,249.49284 v -77.25833 h -8.360833 v 77.25833 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway';fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 90.78124,249.49284 v -47.09583 h -8.678333 v 47.09583 z m -10.16,-65.82833 c 0,3.175 2.54,5.715 5.820833,5.715 3.280834,0 5.820834,-2.54 5.820834,-5.715 0,-3.175 -2.54,-5.715 -5.820834,-5.715 -3.280833,0 -5.820833,2.54 -5.820833,5.715 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path849"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway';fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 129.46994,208.95868 c 13.75833,0 14.39333,11.1125 14.39333,15.34583 v 25.18833 h 8.67833 v -24.55333 c 0,-9.8425 -2.32833,-24.13 -21.80166,-24.13 -6.77334,0 -13.12334,3.06917 -15.98084,7.51417 l -0.21166,-0.10584 v -5.82083 h -8.67834 v 47.09583 h 8.67834 v -25.18833 c 0,-8.46667 6.77333,-15.34583 14.9225,-15.34583 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path851"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway';fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 200.70404,237.95701 c -2.96333,3.28083 -7.51417,5.29167 -12.17083,5.29167 -8.78417,0 -15.87501,-6.77334 -16.61584,-15.66334 h 40.64 c 0,0 0.10584,-0.74083 0.10584,-1.37583 0,-14.605 -11.43,-25.4 -24.55334,-25.4 -13.6525,0 -24.55333,11.21833 -24.55333,25.0825 0,13.97 11.21833,25.18833 25.18833,25.18833 7.09084,0 13.0175,-2.64583 17.78,-7.19666 z m -27.83417,-17.67417 -0.10583,-0.21166 c 2.01083,-6.56167 8.14917,-11.43 15.34583,-11.43 7.09084,0 13.22917,4.86833 15.24,11.43 l -0.10583,0.21166 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path853"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.83333588px;font-family:'Toronto Subway';-inkscape-font-specification:'Toronto Subway';fill:#182080;fill-opacity:1;stroke-width:0.26458332"
+           d="m 250.04387,207.79451 c -2.8575,-4.445 -7.72583,-6.985 -13.22917,-6.985 -8.67833,0 -15.34583,6.24417 -15.34583,14.07583 0,5.715 3.59833,10.58334 8.89,12.7 l 9.41917,3.70417 c 2.43416,0.9525 3.91583,3.175 3.91583,5.715 0,3.28083 -3.38667,6.13833 -7.62,6.13833 -3.59833,0 -7.19667,-2.43416 -7.3025,-5.60916 0,-0.3175 0,-0.635 0.10583,-0.9525 h -8.67833 v 0.9525 c 0,7.40833 7.09083,13.54666 15.98083,13.54666 9.10167,0 16.1925,-6.35 16.1925,-13.97 0,-5.715 -3.59833,-10.4775 -8.89,-12.7 l -9.31333,-4.02166 c -2.2225,-0.9525 -4.02167,-3.175 -4.02167,-5.50334 0,-3.175 3.175,-6.13833 6.77334,-6.13833 2.54,0 4.65666,1.48167 5.715,3.38667 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

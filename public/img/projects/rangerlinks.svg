@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="905px" height="905px" viewBox="0 0 905 905" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#0BA360" offset="0%"></stop>
+            <stop stop-color="#3CBA92" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="App-Icon-Tests" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval-4" fill="#FFFFFF" cx="452.5" cy="452.5" r="452.5"></circle>
+            <path d="M497.174737,235.803797 L497.174737,148.364979 L385.963158,148.364979 L385.963158,235.803797 L141.677895,235.803797 L230.484211,299.006857 L141.677895,362.209916 L385.963158,362.209916 L385.963158,464.855485 L497.174737,464.855485 L497.174737,362.209916 L674.515789,362.209916 L763.322105,299.006857 L674.515789,235.803797 L497.174737,235.803797 Z M385.963158,900.032955 C168.154064,867.866242 1,680.17665 1,453.450422 C1,204.121239 203.143435,2 452.5,2 C701.856565,2 904,204.121239 904,453.450422 C904,687.705698 725.560016,880.28866 497.174737,902.718726 L497.174737,591.261603 L385.963158,591.261603 L385.963158,900.032955 Z M764.272632,464.855485 L231.434737,464.855485 L142.628421,528.058544 L231.434737,591.261603 L764.272632,591.261603 L675.466316,528.058544 L764.272632,464.855485 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+        </g>
+    </g>
+</svg>

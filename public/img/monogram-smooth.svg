@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="monogram-smooth.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="380.52782"
+     inkscape:cy="566.60116"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="137.96131,50.270833"
+       orientation="0,1"
+       id="guide825"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="146.65476,250.22024"
+       orientation="0,1"
+       id="guide827"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150.05655,145.14286"
+       orientation="1,0"
+       id="guide829"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.96500015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path815"
+       sodipodi:type="arc"
+       sodipodi:cx="148.42998"
+       sodipodi:cy="147.52869"
+       sodipodi:rx="142.875"
+       sodipodi:ry="142.875"
+       sodipodi:start="0"
+       sodipodi:end="2.9315524"
+       sodipodi:open="true"
+       d="M 291.30498,147.52869 A 142.875,142.875 0 0 1 163.40716,289.61651 142.875,142.875 0 0 1 8.6950095,177.31802" />
+    <path
+       d="M -8.6950073,-146.47131 A 142.875,142.875 0 0 1 -136.59282,-4.38349 142.875,142.875 0 0 1 -291.30498,-116.68198"
+       sodipodi:open="true"
+       sodipodi:end="2.9315524"
+       sodipodi:start="0"
+       sodipodi:ry="142.875"
+       sodipodi:rx="142.875"
+       sodipodi:cy="-146.47131"
+       sodipodi:cx="-151.57001"
+       sodipodi:type="arc"
+       id="path819"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.96500015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="scale(-1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.26000023;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.010816,146.41132 38.387445,0.1426 m 22.391069,0.10568 51.69874,0.18365 m 21.39756,0.12094 14.36447,0.0367 m 20.93334,0.10406 50.64803,0.1944 m 21.46259,0.0826 39.93603,0.16816"
+       id="path821"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="path848"
+       style="fill:none;stroke:#000000;stroke-width:9.365;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.97999999"
+       d="M 252.8664,246.72917 C 222.37632,187.26092 265.21362,46.779765 200.32767,46.779765 c -62.87039,0 -7.43357,199.949415 -50.27112,199.949405 m -105.45536,-1e-5 C 75.091269,187.26091 34.899801,46.779758 99.785714,46.779758 c 62.870036,0 7.433536,199.949412 50.270836,199.949402" />
+  </g>
+</svg>

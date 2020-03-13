@@ -1,0 +1,109 @@
+/* Colours.css (c) Matt Saunders 2020 */
+
+/* 
+#A1A6A9 GREY
+#0C0C0E BLACK
+#3C246A PURPLE
+#C5357A PINK
+#F5232C RED
+#F77F11 ORANGE 
+*/
+
+:root {
+    --warmwhite: #FCFAF1;
+    --ashgrey: #A1A6A9;
+    --tarblack: #0C0C0E;
+    --plumpurple: #3C246A;
+    --magentapink: #C5257A;
+    --sunsetred: #F5232C;
+    --fireorange: #F77F11;
+}
+
+body {
+    background-color: var(--warmwhite);
+    color: var(--tarblack);
+}
+
+a {
+    color: var(--ashgrey);
+}
+
+a:hover {
+    color: var(--plumpurple);
+}
+
+.gradient {
+    min-height: 0.5rem;
+}
+.gradient-1 {
+    background-color: var(--plumpurple);
+}
+.gradient-2 {
+    background-color: var(--magentapink);
+}
+.gradient-3 {
+    background-color: var(--sunsetred);
+}
+.gradient-4 {
+    background-color: var(--fireorange);
+}
+
+.nav-top {
+    background-color: var(--tarblack);
+    color: var(--ashgrey) !important;
+}
+
+.navbar-brand {
+    color: var(--ashgrey);
+}
+
+.nav-link {
+    color: var(--ashgrey);
+}
+
+.navbar-toggler-fa-icon {
+    color: var(--ashgrey);
+}
+
+.btn-primary {
+    background-color: var(--tarblack);
+    border-color: var(--ashgrey);
+}
+
+.btn-primary:hover {
+    background-color: var(--plumpurple);
+    border-color: var(--fireorange);
+}
+
+.progress {
+    background-color: var(--plumpurple);
+}
+
+.progress-bar {
+    background-color: var(--sunsetred);
+}
+
+.card {
+    background-color: var(--warmwhite);
+}
+
+.card-group {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card-img-top {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    width: 100%;
+    height: auto;
+    max-height: 10rem;
+    object-fit: contain;
+}
+
+#monogram {
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-top: -0.25rem;
+}
