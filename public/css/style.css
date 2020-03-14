@@ -84,7 +84,8 @@ a:hover {
 }
 
 .card {
-    background-color: var(--warmwhite);
+    background-color: var(--plumpurple);
+    color: var(--warmwhite);
 }
 
 .card-group {
